@@ -1,0 +1,76 @@
+body{
+  text-align: center;
+}
+.Logo{
+  border-radius: 100%;
+  height: 40px;
+}
+.callofduty3{
+height: 450px;
+}
+.pub-g{
+  height: 450px;
+  width:1534px;
+}
+.apple{
+height: 450px;
+
+}
+.heart{
+  padding-top: 70px;
+  padding-bottom:70px;
+width: 100px;
+color: #13abc4;
+}
+#features{
+  text-align: center;
+  font-family: 'Chewy', cursive;
+}
+#shipping{
+  text-align: center;
+  font-family: 'Passion One', cursive;
+  background-color: #87e5da;
+  color: #fff;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+.sh-header{
+font-size: 90px;
+}
+.sh-text{
+  font-size: 30px;
+}
+.Terms{
+  padding-top: 80px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+}
+.terms-header{
+  font-size: 100px;
+}
+.terms-text{
+  font-size: 40px;
+}
+.contact{
+  text-align: center;
+  background-color: #005792;
+  color: #fff;
+  font-family: 'Chewy', cursive;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.footer{
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 70px;
+  font-size: 5px;
+}
+.c-header{
+  font-size: 50px;
+
+}
+.c-body{
+font-size: 25px;
+
+}
